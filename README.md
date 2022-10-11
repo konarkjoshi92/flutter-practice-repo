@@ -1,6 +1,6 @@
 # konark1
 
-A new Flutter project.
+A practice  Flutter project. for crud operations and showing a list of documents with cloud firestore
 
 ## Getting Started
 

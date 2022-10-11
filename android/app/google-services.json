@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "853846529016",
+    "project_id": "konark1-a3fe3",
+    "storage_bucket": "konark1-a3fe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853846529016:android:2241e7a2edcad372b43c0d",
+        "android_client_info": {
+          "package_name": "com.example.konark1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853846529016-v463teh2p38hcf0iqmreihi02apj59cp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.konark1",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "853846529016-q3n37a9nlq4ef6et5oh0fjaavnptf619.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSsJ87fvo38r6pgatcO1hm3VaTChP8Twg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853846529016-q3n37a9nlq4ef6et5oh0fjaavnptf619.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "853846529016-i1p4moui2ad0qb1pahqg862lgcvr15mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.konarknew"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853846529016:android:cc074b77d07f72d8b43c0d",
+        "android_client_info": {
+          "package_name": "com.mycompany.konarknew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853846529016-do4mb3p0fkhlaacf655eq34q8mke8ah3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.konarknew",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "853846529016-q3n37a9nlq4ef6et5oh0fjaavnptf619.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSsJ87fvo38r6pgatcO1hm3VaTChP8Twg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853846529016-q3n37a9nlq4ef6et5oh0fjaavnptf619.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "853846529016-i1p4moui2ad0qb1pahqg862lgcvr15mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.konarknew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
